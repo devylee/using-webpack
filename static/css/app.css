@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0
+}
+
+.wrapper {
+    width: 80%;
+    margin: 20px auto;
+    min-width: 320px;
+}
+
+h1{
+    background: url(../img/sample-icon.png) no-repeat;
+    line-height: 30px;
+    padding-left: 35px;
+}
